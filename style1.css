@@ -1,0 +1,26 @@
+body {
+           font-family: Nunito; 
+           padding: 20px; 
+           background-color:#BDD7FF; 
+}
+hr {
+	width: 70%;
+}
+b {
+	  align: center; 
+	}
+.inline {
+	display: inline; 
+}
+.block {
+	display: block; 
+}
+.flex {
+	display: flex; 
+}
+.inline-block {
+	display: inline-block; 
+}
+.grid {
+	display: grid; 
+}
